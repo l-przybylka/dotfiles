@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="ide">Rider</property>
-    <property name="ideVersion">2025.1.4.0.0</property>
+    <property name="ideVersion">2025.3.1.0.0</property>
     <property name="originalScheme">Łukasz Nord</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -848,7 +848,6 @@
       <value>
         <option name="FOREGROUND" value="88c0d0" />
         <option name="EFFECT_COLOR" value="88c0d0" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -2198,6 +2197,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b00" />
         <option name="EFFECT_COLOR" value="144238" />
       </value>
     </option>
@@ -5504,7 +5504,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f4324" />
+        <option name="BACKGROUND" value="3b00" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
