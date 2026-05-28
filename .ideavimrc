@@ -17,7 +17,7 @@ set incsearch
 set ignorecase
 
 map <leader>rnu :set relativenumber!<return><esc>
-map <ESC> :noh <return><esc>
+map <ESC> :noh <return>
 " --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
 
 " Highlight copied text
